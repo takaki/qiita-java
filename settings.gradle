@@ -1,3 +1,4 @@
 rootProject.name = 'qiita-java'
 include 'jaxrs-demo'
+include 'misc'
 
